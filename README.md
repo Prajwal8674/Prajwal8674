@@ -45,10 +45,8 @@
 ## Contribution Graph : 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal8674&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
- ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prajwal8674&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
+##  Take Some Motivation :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
