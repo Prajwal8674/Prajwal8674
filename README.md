@@ -26,10 +26,10 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%2300C4C.svg?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%233366ff.svg?style=for-the-badge&logo=Jira&logoColor=white)
 
-<!--![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-<!--![SpringSecurity](https://img.shields.io/badge/Spring%20Security-%23457128.svg?style=for-the-badge&logo=Spring%20Security&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![SpringSecurity](https://img.shields.io/badge/Spring%20Security-%23457128.svg?style=for-the-badge&logo=Spring%20Security&logoColor=white)
 <!--![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) -->
-<!--![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)-->
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)-->
 ## Database : 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
