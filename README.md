@@ -26,19 +26,20 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%2300C4C.svg?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%233366ff.svg?style=for-the-badge&logo=Jira&logoColor=white)
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring-Boot](https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-%23457128.svg?style=for-the-badge&logo=Spring%20Security&logoColor=white)
-<!--![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) -->
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)-->
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ## Database : 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-163d9e?style=for-the-badge&logo=pgadmin&logoColor=white) 
+
 
 ## Hosting : 
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
+![Docker](https://img.shields.io/badge/docker-163d9e?style=for-the-badge&logo=docker&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
 ## Contribution Graph : 
