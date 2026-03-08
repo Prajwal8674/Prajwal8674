@@ -18,7 +18,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Expertise :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring-Boot](https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
@@ -26,6 +25,7 @@
 ![Postman](https://img.shields.io/badge/postman-f2661f?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-163d9e?style=for-the-badge&logo=docker&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![RestApi](https://img.shields.io/badge/rest%20Api-00579e?style=for-the-badge&logo=rest&logoColor=white) 
 ![ApacheMaven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2300C4C.svg?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%233366ff.svg?style=for-the-badge&logo=Jira&logoColor=white)
